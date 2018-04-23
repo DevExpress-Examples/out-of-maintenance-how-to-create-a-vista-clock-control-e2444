@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClockTimeEditControl", "ClockTimeEditControl\ClockTimeEditControl.csproj", "{73523E12-1415-46CC-BA99-0AC472C6D109}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73523E12-1415-46CC-BA99-0AC472C6D109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73523E12-1415-46CC-BA99-0AC472C6D109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73523E12-1415-46CC-BA99-0AC472C6D109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73523E12-1415-46CC-BA99-0AC472C6D109}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
