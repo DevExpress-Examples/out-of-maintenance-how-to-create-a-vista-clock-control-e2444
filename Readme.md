@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/ClockTimeEditControl/Form1.cs) (VB: [Form1.vb](./VB/ClockTimeEditControl/Form1.vb))
+* [Program.cs](./CS/ClockTimeEditControl/Program.cs) (VB: [Program.vb](./VB/ClockTimeEditControl/Program.vb))
+<!-- default file list end -->
 # How to create a vista clock control
 
 
