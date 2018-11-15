@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ClockTimeCalendar.cs](./CS/ClockTimeEditControl/ClockTimeCalendar.cs) (VB: [ClockTimeCalendar.vb](./VB/ClockTimeEditControl/ClockTimeCalendar.vb))
+* [ClockTimeEdit.cs](./CS/ClockTimeEditControl/ClockTimeEdit.cs) (VB: [ClockTimeEditViewInfo.vb](./VB/ClockTimeEditControl/ClockTimeEditViewInfo.vb))
+* [ClockTimeEditInfoArgs.cs](./CS/ClockTimeEditControl/ClockTimeEditInfoArgs.cs) (VB: [ClockTimeEditInfoArgs.vb](./VB/ClockTimeEditControl/ClockTimeEditInfoArgs.vb))
+* [ClockTimeEditViewInfo.cs](./CS/ClockTimeEditControl/ClockTimeEditViewInfo.cs) (VB: [ClockTimeEditViewInfo.vb](./VB/ClockTimeEditControl/ClockTimeEditViewInfo.vb))
+* [Form1.cs](./CS/ClockTimeEditControl/Form1.cs) (VB: [Form1.vb](./VB/ClockTimeEditControl/Form1.vb))
+* [RepositoryItemClockTimeEdit.cs](./CS/ClockTimeEditControl/RepositoryItemClockTimeEdit.cs) (VB: [RepositoryItemClockTimeEdit.vb](./VB/ClockTimeEditControl/RepositoryItemClockTimeEdit.vb))
+<!-- default file list end -->
 # How to create a vista clock control
 
 
